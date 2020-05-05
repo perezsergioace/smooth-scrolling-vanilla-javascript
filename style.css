@@ -3,6 +3,10 @@
 	src: url(./fonts/NeueMachina-Regular.otf);
 }
 
+html {
+	overflow-x: hidden;
+}
+
 html,
 body {
 	margin: 0;
