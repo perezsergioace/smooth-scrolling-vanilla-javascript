@@ -1,0 +1,18 @@
+@font-face {
+	font-family: Neue Machina;
+	src: url(./fonts/NeueMachina-Regular.otf);
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	background: #161616;
+	color: #fff;
+	font-family: Neue Machina;
+}
+
+body {
+	overflow: hidden;
+	width: 100%;
+}
